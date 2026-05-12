@@ -76,9 +76,9 @@ Mi objetivo es crecer profesionalmente en áreas relacionadas con:
 
 # 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/ericksantiago
-- GitHub: https://github.com/TU-USUARIO
-- Email: tucorreo@correo.com
+- LinkedIn: https://www.linkedin.com/in/erick-santiago-nuñez-hernandez-2baa571a3
+- GitHub: https://github.com/Mouthydart
+- Email: sannuher@correo.com
 
 ---
 
